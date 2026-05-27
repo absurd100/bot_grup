@@ -1,31 +1,1202 @@
 [
-  {"cat": "Konflik", "text": "Saat pasangan melakukan kesalahan fatal, respon pertamamu adalah:", "opt": ["Tegur langsung agar clear", "Bicara nanti saat tenang"]},                              {"cat": "Konflik", "text": "Di tengah perdebatan panas, Anda lebih mengandalkan:", "opt": ["Logika dan fakta objektif", "Intuisi dan perasaan"]},                                               {"cat": "Konflik", "text": "Jika amarah memuncak, gaya pertahanan Anda adalah:", "opt": ["Memilih diam dan menjauh", "Bicara lantang apa adanya"]},                                             {"cat": "Konflik", "text": "Bagaimana Anda memandang sebuah masalah dalam hubungan?", "opt": ["Tantangan untuk bertumbuh", "Beban yang melelahkan"]},                                           {"cat": "Konflik", "text": "Saat dikritik oleh pasangan, reaksi alami Anda adalah:", "opt": ["Evaluasi diri untuk perbaikan", "Defensif membela diri"]},                                        {"cat": "Konflik", "text": "Kecepatan dalam menyelesaikan konflik bagi Anda adalah:", "opt": ["Harus segera tuntas", "Perlu waktu untuk mengendap"]},                                           {"cat": "Konflik", "text": "Jika terjadi perbedaan pendapat, strategi Anda yaitu:", "opt": ["Debat sampai menemukan titik temu", "Mengalah demi menjaga harmoni"]},                             {"cat": "Konflik", "text": "Ketika merasa disakiti, tindakan Anda adalah:", "opt": ["Langsung bicara jujur", "Menyimpannya dalam hati"]},       {"cat": "Konflik", "text": "Minta maaf bagi Anda adalah:", "opt": ["Wujud tanggung jawab", "Hanya jika merasa salah"]},                         {"cat": "Konflik", "text": "Saat ada keributan di sekitar, Anda cenderung:", "opt": ["Turun tangan melerai", "Menjauh mencari aman"]},          {"cat": "Konflik", "text": "Salah paham terjadi, langkah Anda:", "opt": ["Selesaikan hari itu juga", "Biarkan waktu menjawab"]},                {"cat": "Konflik", "text": "Jika teman terdekat berbuat jahat, Anda:", "opt": ["Jauhi secara perlahan", "Tegur dan konfrontasi"]},              {"cat": "Konflik", "text": "Saat berada di titik stres tinggi, Anda:", "opt": ["Mengurung diri/diam", "Cari teman untuk bercerita"]},           {"cat": "Konflik", "text": "Bagi Anda, sikap sabar adalah:", "opt": ["Sebuah kekuatan besar", "Tanda kelemahan diri"]},                         {"cat": "Konflik", "text": "Memaafkan musuh atau orang yang menyakiti:", "opt": ["Ya, demi ketenangan", "Tidak, keadilan utama"]},              {"cat": "Sosial", "text": "Jika berada di pesta atau acara ramai, Anda:", "opt": ["Aktif berbaur dan menyapa", "Pasif mengamati sekitar"]},     {"cat": "Sosial", "text": "Tipe teman yang paling membuat Anda nyaman:", "opt": ["Seru dan penuh kejutan", "Tenang dan bisa diandalkan"]},      {"cat": "Sosial", "text": "Saat bertemu kenalan baru, tindakan Anda:", "opt": ["Sapa duluan dengan ramah", "Tunggu disapa lebih dulu"]},        {"cat": "Sosial", "text": "Tempat favorit untuk menghabiskan waktu:", "opt": ["Pusat keramaian kota", "Sudut sepi yang damai"]},                {"cat": "Sosial", "text": "Agenda akhir pekan ideal menurut Anda:", "opt": ["Keluar rumah cari suasana", "Rebahan santai di rumah"]},           {"cat": "Sosial", "text": "Saat kumpul grup, Anda lebih suka:", "opt": ["Bicara dan berbagi cerita", "Mendengarkan dengan seksama"]},           {"cat": "Sosial", "text": "Di grup chat, peran Anda adalah:", "opt": ["Si paling aktif merespon", "Silent reader yang setia"]},                 {"cat": "Sosial", "text": "Bertemu orang asing membuat Anda merasa:", "opt": ["Senang dan bersemangat", "Canggung dan tertutup"]},              {"cat": "Sosial", "text": "Punya jaringan pertemanan yang luas bagi Anda:", "opt": ["Sangat penting", "Tidak terlalu berpengaruh"]},            {"cat": "Sosial", "text": "Jika ada undangan acara, keputusan Anda:", "opt": ["Pasti ikut antusias", "Absen jika tidak perlu"]},                {"cat": "Sosial", "text": "Suasana keramaian bagi Anda adalah:", "opt": ["Sumber energi (recharge)", "Menguras tenaga (lelah)"]},
-  {"cat": "Sosial", "text": "Dalam berteman, Anda cenderung:", "opt": ["Sangat selektif", "Terbuka bagi siapa saja"]},
-  {"cat": "Sosial", "text": "Jika merasa diabaikan dalam pergaulan:", "opt": ["Merasa tersinggung", "Biasa saja dan santai"]},                    {"cat": "Sosial", "text": "Jika teman butuh bantuan, Anda:", "opt": ["Langsung terima bantu", "Tolak jika ribet"]},
-  {"cat": "Sosial", "text": "Dalam kelompok, Anda merasa:", "opt": ["Suka memimpin/mengatur", "Enggan menonjol/mengikuti"]},
-  {"cat": "Prioritas", "text": "Definisi sukses yang paling relevan bagi Anda:", "opt": ["Kekayaan dan harta", "Waktu yang bebas dan berkualitas"]},                                              {"cat": "Prioritas", "text": "Pilihan hidup yang Anda ambil:", "opt": ["Memilih hidup yang stabil", "Berani mengambil risiko"]},
-  {"cat": "Prioritas", "text": "Fokus utama dalam kehidupan saat ini:", "opt": ["Pengembangan karir", "Kedekatan dengan keluarga"]},              {"cat": "Prioritas", "text": "Bekerja dengan keras bagi Anda:", "opt": ["Kewajiban penting", "Biasa saja secukupnya"]},
-  {"cat": "Prioritas", "text": "Hal yang lebih Anda hargai:", "opt": ["Kualitas atas segalanya", "Kuantitas yang melimpah"]},                     {"cat": "Prioritas", "text": "Uang bagi Anda adalah:", "opt": ["Tujuan akhir hidup", "Hanya alat penunjang"]},                                  {"cat": "Prioritas", "text": "Masa depan bagi Anda:", "opt": ["Harus terencana rapi", "Biarkan hidup mengalir"]},
-  {"cat": "Prioritas", "text": "Investasi untuk masa depan:", "opt": ["Penting dimulai dini", "Nanti saja kalau mampu"]},
-  {"cat": "Prioritas", "text": "Impian Anda:", "opt": ["Besar dan visioner", "Sederhana tapi bermakna"]},                                         {"cat": "Prioritas", "text": "Gaya hidup yang Anda impikan:", "opt": ["Mewah dan glamor", "Sederhana dan minimalis"]},
-  {"cat": "Prioritas", "text": "Tujuan hidup utama:", "opt": ["Meraih banyak prestasi", "Hidup tenang dan bahagia"]},
-  {"cat": "Prioritas", "text": "Bekerja karena:", "opt": ["Passion dan ketertarikan", "Gaji yang layak"]},                                        {"cat": "Prioritas", "text": "Waktu bagi Anda adalah:", "opt": ["Disiplin harus terjaga", "Fleksibel mengikuti kondisi"]},                      {"cat": "Prioritas", "text": "Barang baru yang diinginkan:", "opt": ["Langsung beli jika bisa", "Tabung dulu sampai cukup"]},                   {"cat": "Prioritas", "text": "Kesehatan bagi Anda:", "opt": ["Prioritas utama", "Penting tapi nomor dua"]},                                     {"cat": "Komunikasi", "text": "Cara Anda menyampaikan pendapat:", "opt": ["To the point dan jelas", "Bertele-tele demi konteks"]},              {"cat": "Komunikasi", "text": "Kecepatan membalas chat:", "opt": ["Cepat dan tanggap", "Sesuai mood dan waktu"]},                               {"cat": "Komunikasi", "text": "Jadi pendengar yang baik bagi Anda:", "opt": ["Suka sekali", "Cenderung bosan"]},                                {"cat": "Komunikasi", "text": "Tentang sebuah rahasia, Anda:", "opt": ["Simpan rapat-rapat", "Bagi ke orang terpercaya"]},                      {"cat": "Komunikasi", "text": "Gaya pesan (chat) Anda:", "opt": ["Singkat dan padat", "Panjang dan deskriptif"]},                               {"cat": "Komunikasi", "text": "Jika ditanya opini jujur, Anda:", "opt": ["Jawab apa adanya", "Jaga perasaan orang"]},                           {"cat": "Komunikasi", "text": "Penggunaan Emoji dalam chat:", "opt": ["Sering (biar ekspresif)", "Jarang (biar serius)"]},                      {"cat": "Komunikasi", "text": "Menerima telepon langsung:", "opt": ["Suka dan terbuka", "Malas dan lebih suka chat"]},                          {"cat": "Komunikasi", "text": "Saat mengobrol, Anda:", "opt": ["Fokus pada lawan bicara", "Mudah terdistraksi"]},                               {"cat": "Komunikasi", "text": "Saat menjelaskan sesuatu:", "opt": ["Detail dan terstruktur", "Inti sari saja"]},                                {"cat": "Komunikasi", "text": "Berdebat dengan orang lain:", "opt": ["Suka tantangannya", "Lebih suka menghindari"]},                           {"cat": "Komunikasi", "text": "Selera humor bagi Anda:", "opt": ["Penting dalam hidup", "Lebih nyaman serius"]},                                {"cat": "Komunikasi", "text": "Jika disindir orang lain:", "opt": ["Balas dengan cerdas", "Pilih diam tidak menggubris"]},                      {"cat": "Komunikasi", "text": "Voice note di chat:", "opt": ["Suka, lebih personal", "Benci, lebih suka teks"]},                                {"cat": "Otonomi", "text": "Me-time bagi Anda adalah:", "opt": ["Waktu wajib pribadi", "Bonus jika ada waktu"]},                                {"cat": "Otonomi", "text": "Privasi isi HP Anda:", "opt": ["Harus dikunci rapat", "Terbuka bagi pasangan"]},                                    {"cat": "Otonomi", "text": "Saat mengambil keputusan:", "opt": ["Mandiri tanpa intervensi", "Diskusi dan minta saran"]},                        {"cat": "Otonomi", "text": "Jika merasa terlalu diatur:", "opt": ["Benci dan memberontak", "Terima asal masuk akal"]},                          {"cat": "Otonomi", "text": "Ruang pribadi (personal space):", "opt": ["Penting dijaga", "Biasa saja tidak masalah"]},                           {"cat": "Otonomi", "text": "Keinginan untuk kebebasan:", "opt": ["Sangat besar", "Cukup secukupnya"]},                                          {"cat": "Otonomi", "text": "Jika diberi tugas atau pekerjaan:", "opt": ["Lebih suka kerjakan sendiri", "Lebih baik bekerja tim"]},              {"cat": "Otonomi", "text": "Tinggal sendiri bagi Anda:", "opt": ["Berani dan mandiri", "Takut dan kesepian"]},                                  {"cat": "Otonomi", "text": "Waktu santai paling nikmat jika:", "opt": ["Menikmati waktu sendiri", "Berkumpul bersama teman"]},                  {"cat": "Otonomi", "text": "Kehidupan Anda saat ini:", "opt": ["Ingin kendali penuh", "Ikut arus saja"]},                                       {"cat": "Otonomi", "text": "Kehidupan pribadi bagi Anda:", "opt": ["Eksklusif (privat)", "Terbuka (publik)"]},                                  {"cat": "Otonomi", "text": "Suasana rumah yang ideal:", "opt": ["Tenang dan sunyi", "Ramai dan penuh tawa"]},                                   {"cat": "Otonomi", "text": "Kebebasan bagi Anda:", "opt": ["Segalanya dalam hidup", "Tetap ada batasnya"]},                                     {"cat": "Otonomi", "text": "Jika merasa bosan pada rutinitas:", "opt": ["Cari tantangan/hobi baru", "Tekuni yang ada sampai ahli"]},            {"cat": "Otonomi", "text": "Kepemilikan barang bagi Anda:", "opt": ["Lebih suka milik pribadi", "Nyaman berbagi bersama"]},                     {"cat": "Otonomi", "text": "Ruang kerja ideal:", "opt": ["Rapi dan tertata", "Berantakan kreatif"]},                                            {"cat": "Konflik", "text": "Saat masa lalu pasangan diungkit, Anda:", "opt": ["Abaikan, itu sudah berlalu", "Bahas detail agar tuntas"]},       {"cat": "Konflik", "text": "Jika pasangan cemburu buta, reaksi Anda:", "opt": ["Menjelaskan dengan sabar", "Merasa risih dan ikut marah"]},     {"cat": "Konflik", "text": "Menghadapi pasangan yang sedang bad mood parah:", "opt": ["Beri dia ruang dan waktu sendiri", "Terus dampingi dan hibur"]},                                         {"cat": "Konflik", "text": "Ketika janji penting dibatalkan sepihak karena alasan mendadak:", "opt": ["Sangat marah dan kecewa", "Memaklumi jika alasannya logis"]},                            {"cat": "Konflik", "text": "Saat bertengkar di tempat umum, Anda akan:", "opt": ["Menahan diri sampai pulang", "Langsung berdebat di tempat"]},                                                 {"cat": "Konflik", "text": "Jika merasa dikhianati, apakah ada kesempatan kedua?", "opt": ["Tidak ada kompromi", "Tergantung seberapa fatal"]},                                                 {"cat": "Konflik", "text": "Ketika pasangan menyembunyikan sesuatu demi kebaikan:", "opt": ["Tetap marah karena itu bohong", "Menghargai niat baiknya"]},                                       {"cat": "Konflik", "text": "Cara Anda menghadapi watak keras pasangan:", "opt": ["Mengalah dan mengikuti alurnya", "Bersikap sama tegas dan kerasnya"]},                                        {"cat": "Konflik", "text": "Saat ada pihak ketiga (teman/keluarga) ikut campur hubungan:", "opt": ["Tegas membatasi mereka", "Membiarkan karena menghargai"]},                                  {"cat": "Konflik", "text": "Jika tidak sengaja menyakiti perasaan pasangan:", "opt": ["Langsung minta maaf saat itu juga", "Menunggu situasi agak mereda"]},                                    {"cat": "Konflik", "text": "Menghadapi perbedaan prinsip yang sangat tajam:", "opt": ["Berusaha keras mencari jalan tengah", "Merasa sulit untuk dilanjutkan"]},                                {"cat": "Konflik", "text": "Saat pasangan terus mengulangi kesalahan sepele yang sama:", "opt": ["Memberi ultimatum tegas", "Pasrah dan memperbanyak sabar"]},                                  {"cat": "Konflik", "text": "Jika perdebatan mulai mengarah ke nada tinggi:", "opt": ["Langsung pergi meninggalkan ruangan", "Terbawa emosi dan membalas"]},                                     {"cat": "Konflik", "text": "Ketika Anda sadar Anda salah tapi gengsi:", "opt": ["Minta maaf diam-diam lewat sikap", "Tetap keras kepala menolak salah"]},                                       {"cat": "Konflik", "text": "Melihat orang lain menangis saat bertengkar dengan Anda:", "opt": ["Luluh dan merasa bersalah", "Menganggap itu senjata manipulasi"]},                                                                              {"cat": "Sosial", "text": "Mengunggah kemesraan di media sosial:", "opt": ["Penting untuk kenang-kenangan", "Norak dan sangat privat"]},        {"cat": "Sosial", "text": "Jika pasangan ingin ikut nongkrong dengan teman-teman Anda:", "opt": ["Senang dan mengajaknya berbaur", "Lebih suka punya waktu terpisah"]},                         {"cat": "Sosial", "text": "Sikap Anda terhadap mantan dari pasangan:", "opt": ["Bisa jadi teman biasa", "Harus putus kontak sepenuhnya"]},      {"cat": "Sosial", "text": "Menghadapi teman sahabat pasangan yang berlawanan jenis:", "opt": ["Percaya sepenuhnya", "Tetap waspada dan sedikit cemburu"]},                                      {"cat": "Sosial", "text": "Bergaul dengan tetangga di lingkungan tempat tinggal:", "opt": ["Berusaha akrab dan ramah", "Cukup sapa seperlunya saja"]},                                          {"cat": "Sosial", "text": "Ketika diajak ke acara keluarga besar pasangan untuk pertama kali:", "opt": ["Antusias dan bersiap diri", "Merasa sangat canggung dan malas"]},                      {"cat": "Sosial", "text": "Saat pasangan terlalu sibuk dengan hobi dan sirkelnya:", "opt": ["Protes meminta waktu lebih", "Mencari kesibukan dan teman sendiri"]},                              {"cat": "Sosial", "text": "Pendapat orang lain tentang hubungan asmara Anda:", "opt": ["Penting sebagai bahan evaluasi", "Sama sekali tidak peduli"]},                                          {"cat": "Sosial", "text": "Jika ada teman jauh yang tiba-tiba meminjam uang:", "opt": ["Bantu sesuai kemampuan", "Tolak dengan alasan halus"]},                                                 {"cat": "Sosial", "text": "Membantu orang tidak dikenal yang kesulitan di jalan:", "opt": ["Langsung turun tangan menolong", "Ragu, takut itu modus penipuan"]},                                {"cat": "Sosial", "text": "Sikap di dunia maya (Medsos) secara umum:", "opt": ["Aktif berkomentar dan posting", "Hanya scroll sebagai pengamat"]},                                              {"cat": "Sosial", "text": "Menghadapi komentar negatif di media sosial:", "opt": ["Balas dengan argumen tegas", "Abaikan, hapus, atau blokir"]},                                                {"cat": "Sosial", "text": "Di sebuah acara umum, Anda lebih nyaman dikenal sebagai:", "opt": ["Pasangan dari seseorang", "Diri Anda sendiri dengan karya"]},                                    {"cat": "Sosial", "text": "Jika sahabat curhat masalah hubungannya yang toxic:", "opt": ["Beri saran objektif walau pahit", "Hanya mendengarkan tanpa menghakimi"]},                            {"cat": "Sosial", "text": "Membawa teman menginap di rumah Anda:", "opt": ["Boleh saja, seru dan ramai", "Mengganggu privasi kenyamanan"]},                                                     {"cat": "Prioritas", "text": "Memilih antara karir yang bersinar atau cinta yang damai:", "opt": ["Karir dan kemapanan nomor satu", "Cinta dan keharmonisan lebih utama"]},                     {"cat": "Prioritas", "text": "Rencana menikah bagi Anda secara pribadi:", "opt": ["Punya target usia atau capaian tertentu", "Mengalir saja menunggu siap batin"]},                             {"cat": "Prioritas", "text": "Membagi penghasilan dengan pasangan di masa depan:", "opt": ["Transparan sepenuhnya dalam satu pintu", "Tetap ada dana privasi masing-masing"]},                  {"cat": "Prioritas", "text": "Tabungan pendidikan anak atau liburan keluarga yang rutin?:", "opt": ["Pendidikan adalah hal yang utama", "Liburan penting untuk kewarasan bersama"]},            {"cat": "Prioritas", "text": "Tinggal bersama orang tua/mertua setelah menikah:", "opt": ["Bersedia jika memang keadaan memaksa", "Mutlak menolak, harus mandiri"]},                            {"cat": "Prioritas", "text": "Membeli rumah sederhana atau kendaraan mewah terlebih dahulu?", "opt": ["Rumah sederhana untuk investasi aman", "Kendaraan bagus untuk mobilitas/gengsi"]},       {"cat": "Prioritas", "text": "Saat hari gajian tiba, hal pertama yang Anda lakukan:", "opt": ["Bayar tagihan dan tabung utuh", "Self-reward, makan enak atau belanja"]},                        {"cat": "Prioritas", "text": "Memilih tempat makan saat kencan akhir pekan:", "opt": ["Restoran mahal dengan estetik bagus", "Warung kaki lima yang makanannya lezat"]},
-  {"cat": "Prioritas", "text": "Membawa hewan peliharaan (kucing/anjing) di dalam rumah:", "opt": ["Sangat suka dan menyenangkan", "Tidak suka, kotor dan repot"]},
-  {"cat": "Prioritas", "text": "Pentingnya penampilan fisik pasangan bagi Anda:", "opt": ["Sangat penting untuk daya tarik", "Inner beauty dan karakter lebih utama"]},                           {"cat": "Prioritas", "text": "Tanggung jawab pekerjaan rumah tangga (menyapu/mencuci):", "opt": ["Harus dibagi rata tanpa pandang gender", "Adalah tugas utama salah satu pihak"]},
-  {"cat": "Prioritas", "text": "Menyikapi hutang atau cicilan pinjaman online:", "opt": ["Hindari sebisa mungkin walau sulit", "Wajar dipakai untuk penuhi gaya hidup"]},                         {"cat": "Prioritas", "text": "Menghadapi masa krisis finansial hebat bersama pasangan:", "opt": ["Tetap setia berjuang dari nol bersama", "Realistis mencari jalan keluar masing-masing"]},     {"cat": "Prioritas", "text": "Mengejar pendidikan akademis setinggi-tingginya:", "opt": ["Sangat penting untuk status dan ilmu", "Pengalaman lapangan jauh lebih penting"]},                    {"cat": "Prioritas", "text": "Saat harus memilih: Hadiah mahal tapi tak berguna, atau murah tapi fungsional?", "opt": ["Mahal karena nilai prestisenya", "Murah yang penting sangat bermanfaat"]},                                            
-  {"cat": "Komunikasi", "text": "Saat LDR (Long Distance Relationship), intensitas komunikasi:", "opt": ["Harus saling update setiap jam", "Secukupnya saja saat ada waktu luang"]},              {"cat": "Komunikasi", "text": "Rutinitas mengucapkan kalimat 'Aku sayang kamu':", "opt": ["Sering diucapkan agar ia selalu tahu", "Jarang diucapkan agar terasa sangat spesial"]},
-  {"cat": "Komunikasi", "text": "Jika pasangan memberi kode atau isyarat terselubung:", "opt": ["Mudah peka dan langsung mengerti", "Tidak paham, lebih suka bicara langsung"]},
-  {"cat": "Komunikasi", "text": "Membahas topik serius tentang masa depan secara tiba-tiba:", "opt": ["Santai, seru untuk dibicarakan", "Terasa berat dan bikin overthinking"]},
-  {"cat": "Komunikasi", "text": "Saat pasangan curhat panjang lebar tentang masalahnya:", "opt": ["Fokus mencari dan memberi solusi", "Fokus memberi empati dan pelukan"]},
-  {"cat": "Komunikasi", "text": "Jika ada hal kecil yang mengganjal di hati Anda:", "opt": ["Langsung utarakan detik itu juga", "Tunggu waktu dan mood yang pas"]},
-  {"cat": "Komunikasi", "text": "Gaya bercanda harian dengan pasangan:", "opt": ["Suka saling meledek atau roasting", "Lebih banyak panggilan sayang yang lembut"]},                              {"cat": "Komunikasi", "text": "Membagikan kata sandi (password) HP dan Medsos:", "opt": ["Saling tahu sebagai bentuk kejujuran", "Itu privasi, tidak boleh saling tahu"]},
-  {"cat": "Komunikasi", "text": "Memberi kabar saat sedang bepergian bersama teman:", "opt": ["Wajib, inisiatif sendiri tanpa disuruh", "Kalau ingat atau kalau sempat saja"]},                   {"cat": "Komunikasi", "text": "Menanggapi pujian fisik dari pasangan:", "opt": ["Senang dan percaya diri", "Salah tingkah, malu, dan merasa canggung"]},
-  {"cat": "Komunikasi", "text": "Membicarakan hal tabu atau fantasi terdalam:", "opt": ["Sangat terbuka tanpa rasa canggung", "Merasa tidak nyaman dan menghindar"]},
-  {"cat": "Komunikasi", "text": "Jika chat hanya di-read tapi tidak dibalas lama:", "opt": ["Biasa saja, mungkin dia sedang repot", "Overthinking dan berujung marah"]},                          {"cat": "Komunikasi", "text": "Menulis surat cinta atau pesan teks yang sangat panjang:", "opt": ["Sangat romantis dan menyentuh", "Terlalu kuno dan berlebihan (cringe)"]},                    {"cat": "Komunikasi", "text": "Membahas masa lalu atau mantan pacar dengan pasangan saat ini:", "opt": ["Santai sebagai bahan cerita/evaluasi", "Topik terlarang yang memancing keributan"]},
-  {"cat": "Komunikasi", "text": "Bahasa cinta (Love Language) paling dominan bagi Anda:", "opt": ["Kata-kata pujian (Words of Affirmation)", "Waktu bersama (Quality Time)"]},                                                                    {"cat": "Otonomi", "text": "Pergi berlibur sendirian (Solo traveling) ke kota asing:", "opt": ["Sangat menantang dan membebaskan", "Kesepian, lebih suka ada teman"]},                          {"cat": "Otonomi", "text": "Jika pasangan sering mengatur gaya berpakaian Anda:", "opt": ["Senang karena merasa diperhatikan", "Merasa dikekang dan risih"]},                                   {"cat": "Otonomi", "text": "Mengelola hobi masing-masing di luar hubungan:", "opt": ["Penting punya hobi dan dunia sendiri", "Lebih baik menemukan hobi bersama"]},
-  {"cat": "Otonomi", "text": "Keputusan untuk resign dari pekerjaan utama:", "opt": ["Putuskan sendiri secara mandiri", "Wajib meminta persetujuan pasangan"]},
-  {"cat": "Otonomi", "text": "Jika dilarang berteman dengan orang tertentu yang tidak disukai pasangan:", "opt": ["Turuti demi menjaga perasaan", "Menolak keras karena itu hak pribadi"]},       {"cat": "Otonomi", "text": "Mengatur jadwal harian secara umum:", "opt": ["Terstruktur, disiplin, dan kaku", "Sangat fleksibel, spontan, dan bebas"]},                                          {"cat": "Otonomi", "text": "Saat sedang sangat fokus mengerjakan tugas/coding:", "opt": ["Jangan diganggu sama sekali", "Masih boleh disela sesekali"]},
-  {"cat": "Otonomi", "text": "Prinsip utama Anda dalam menjalani aturan:", "opt": ["Aturan dibuat untuk ditaati sepenuhnya", "Aturan bisa diakali jika situasinya mendesak"]},                    {"cat": "Otonomi", "text": "Menentukan menu makan saat keluar berdua:", "opt": ["Saya yang inisiatif memilihkan tempat", "Sering menjawab 'terserah' pada pasangan"]},
-  {"cat": "Otonomi", "text": "Ikut campur menyelesaikan urusan internal keluarga pasangan:", "opt": ["Hanya memberi saran jika diminta", "Merasa berhak ikut serta turun tangan"]},
-  {"cat": "Otonomi", "text": "Bergantung pada bantuan orang lain dalam hal remeh:", "opt": ["Sangat menghindari, ingin mandiri terus", "Tidak masalah jika hubungannya dekat"]},                  {"cat": "Otonomi", "text": "Mencoba hal baru yang sedikit ekstrem (misal: olahraga pemicu adrenalin):", "opt": ["Berani mencoba tanpa ragu", "Menolak tegas, lebih suka cari aman"]},           {"cat": "Otonomi", "text": "Ketika disuruh berubah karakter demi mempertahankan pasangan:", "opt": ["Menolak, 'inilah diriku apa adanya'", "Bersedia kompromi asal ke arah positif"]},
-  {"cat": "Otonomi", "text": "Memiliki pandangan politik atau prinsip fundamental yang berseberangan:", "opt": ["Tidak masalah, perbedaan itu wajar", "Bisa jadi sumber konflik besar yang fatal"]},                                              {"cat": "Otonomi", "text": "Jika pasangan tiba-tiba mengecek mutasi rekening atau isi dompet Anda:", "opt": ["Marah besar karena melanggar privasi", "Santai saja, tidak ada yang disembunyikan"]}                                            ]                                               
+  {
+    "cat": "Konflik",
+    "text": "Saat pasangan melakukan kesalahan fatal, respon pertamamu adalah:",
+    "opt": [
+      "Tegur langsung agar clear",
+      "Bicara nanti saat tenang"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Di tengah perdebatan panas, Anda lebih mengandalkan:",
+    "opt": [
+      "Logika dan fakta objektif",
+      "Intuisi dan perasaan"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Jika amarah memuncak, gaya pertahanan Anda adalah:",
+    "opt": [
+      "Memilih diam dan menjauh",
+      "Bicara lantang apa adanya"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Bagaimana Anda memandang sebuah masalah dalam hubungan?",
+    "opt": [
+      "Tantangan untuk bertumbuh",
+      "Beban yang melelahkan"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Saat dikritik oleh pasangan, reaksi alami Anda adalah:",
+    "opt": [
+      "Evaluasi diri untuk perbaikan",
+      "Defensif membela diri"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Kecepatan dalam menyelesaikan konflik bagi Anda adalah:",
+    "opt": [
+      "Harus segera tuntas",
+      "Perlu waktu untuk mengendap"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Jika terjadi perbedaan pendapat, strategi Anda yaitu:",
+    "opt": [
+      "Debat sampai menemukan titik temu",
+      "Mengalah demi menjaga harmoni"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Ketika merasa disakiti, tindakan Anda adalah:",
+    "opt": [
+      "Langsung bicara jujur",
+      "Menyimpannya dalam hati"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Minta maaf bagi Anda adalah:",
+    "opt": [
+      "Wujud tanggung jawab",
+      "Hanya jika merasa salah"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Saat ada keributan di sekitar, Anda cenderung:",
+    "opt": [
+      "Turun tangan melerai",
+      "Menjauh mencari aman"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Salah paham terjadi, langkah Anda:",
+    "opt": [
+      "Selesaikan hari itu juga",
+      "Biarkan waktu menjawab"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Jika teman terdekat berbuat jahat, Anda:",
+    "opt": [
+      "Jauhi secara perlahan",
+      "Tegur dan konfrontasi"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Saat berada di titik stres tinggi, Anda:",
+    "opt": [
+      "Mengurung diri/diam",
+      "Cari teman untuk bercerita"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Bagi Anda, sikap sabar adalah:",
+    "opt": [
+      "Sebuah kekuatan besar",
+      "Tanda kelemahan diri"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Memaafkan musuh atau orang yang menyakiti:",
+    "opt": [
+      "Ya, demi ketenangan",
+      "Tidak, keadilan utama"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Jika berada di pesta atau acara ramai, Anda:",
+    "opt": [
+      "Aktif berbaur dan menyapa",
+      "Pasif mengamati sekitar"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Tipe teman yang paling membuat Anda nyaman:",
+    "opt": [
+      "Seru dan penuh kejutan",
+      "Tenang dan bisa diandalkan"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Saat bertemu kenalan baru, tindakan Anda:",
+    "opt": [
+      "Sapa duluan dengan ramah",
+      "Tunggu disapa lebih dulu"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Tempat favorit untuk menghabiskan waktu:",
+    "opt": [
+      "Pusat keramaian kota",
+      "Sudut sepi yang damai"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Agenda akhir pekan ideal menurut Anda:",
+    "opt": [
+      "Keluar rumah cari suasana",
+      "Rebahan santai di rumah"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Saat kumpul grup, Anda lebih suka:",
+    "opt": [
+      "Bicara dan berbagi cerita",
+      "Mendengarkan dengan seksama"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Di grup chat, peran Anda adalah:",
+    "opt": [
+      "Si paling aktif merespon",
+      "Silent reader yang setia"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Bertemu orang asing membuat Anda merasa:",
+    "opt": [
+      "Senang dan bersemangat",
+      "Canggung dan tertutup"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Punya jaringan pertemanan yang luas bagi Anda:",
+    "opt": [
+      "Sangat penting",
+      "Tidak terlalu berpengaruh"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Jika ada undangan acara, keputusan Anda:",
+    "opt": [
+      "Pasi ikut antusias",
+      "Absen jika tidak perlu"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Suasana keramaian bagi Anda adalah:",
+    "opt": [
+      "Sumber energi (recharge)",
+      "Menguras tenaga (lelah)"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Dalam berteman, Anda cenderung:",
+    "opt": [
+      "Sangat selektif",
+      "Terbuka bagi siapa saja"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Jika merasa diabaikan dalam pergaulan:",
+    "opt": [
+      "Merasa tersinggung",
+      "Biasa saja dan santai"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Jika teman butuh bantuan, Anda:",
+    "opt": [
+      "Langsung terima bantu",
+      "Tolak jika ribet"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Dalam kelompok, Anda merasa:",
+    "opt": [
+      "Suka memimpin/mengatur",
+      "Enggan menonjol/mengikuti"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Definisi sukses yang paling relevan bagi Anda:",
+    "opt": [
+      "Kekayaan dan harta",
+      "Waktu yang bebas dan berkualitas"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Pilihan hidup yang Anda ambil:",
+    "opt": [
+      "Memilih hidup yang stabil",
+      "Berani mengambil risiko"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Fokus utama dalam kehidupan saat ini:",
+    "opt": [
+      "Pengembangan karir",
+      "Kedekatan dengan keluarga"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Bekerja dengan keras bagi Anda:",
+    "opt": [
+      "Kewajiban penting",
+      "Biasa saja secukupnya"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Hal yang lebih Anda hargai:",
+    "opt": [
+      "Kualitas atas segalanya",
+      "Kuantitas yang melimpah"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Uang bagi Anda adalah:",
+    "opt": [
+      "Tujuan akhir hidup",
+      "Hanya alat penunjang"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Masa depan bagi Anda:",
+    "opt": [
+      "Harus terencana rapi",
+      "Biarkan hidup mengalir"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Investasi untuk masa depan:",
+    "opt": [
+      "Penting dimulai dini",
+      "Nanti saja kalau mampu"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Impian Anda:",
+    "opt": [
+      "Besar dan visioner",
+      "Sederhana tapi bermakna"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Gaya hidup yang Anda impikan:",
+    "opt": [
+      "Mewah dan glamor",
+      "Sederhana dan minimalis"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Tujuan hidup utama:",
+    "opt": [
+      "Meraih banyak prestasi",
+      "Hidup tenang dan bahagia"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Bekerja karena:",
+    "opt": [
+      "Passion dan ketertarikan",
+      "Gaji yang layak"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Waktu bagi Anda adalah:",
+    "opt": [
+      "Disiplin harus terjaga",
+      "Fleksibel mengikuti kondisi"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Barang baru yang diinginkan:",
+    "opt": [
+      "Langsung beli jika bisa",
+      "Tabung dulu sampai cukup"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Kesehatan bagi Anda:",
+    "opt": [
+      "Prioritas utama",
+      "Penting tapi nomor dua"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Cara Anda menyampaikan pendapat:",
+    "opt": [
+      "To the point dan jelas",
+      "Bertele-tele demi konteks"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Kecepatan membalas chat:",
+    "opt": [
+      "Cepat dan tanggap",
+      "Sesuai mood dan waktu"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Jadi pendengar yang baik bagi Anda:",
+    "opt": [
+      "Suka sekali",
+      "Cenderung bosan"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Tentang sebuah rahasia, Anda:",
+    "opt": [
+      "Simpan rapat-rapat",
+      "Bagi ke orang terpercaya"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Gaya pesan (chat) Anda:",
+    "opt": [
+      "Singkat dan padat",
+      "Panjang dan deskriptif"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Jika ditanya opini jujur, Anda:",
+    "opt": [
+      "Jawab apa adanya",
+      "Jaga perasaan orang"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Penggunaan Emoji dalam chat:",
+    "opt": [
+      "Sering (biar ekspresif)",
+      "Jarang (biar serius)"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Menerima telepon langsung:",
+    "opt": [
+      "Suka dan terbuka",
+      "Malas dan lebih suka chat"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Saat mengobrol, Anda:",
+    "opt": [
+      "Fokus pada lawan bicara",
+      "Mudah terdistraksi"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Saat menjelaskan sesuatu:",
+    "opt": [
+      "Detail dan terstruktur",
+      "Inti sari saja"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Berdebat dengan orang lain:",
+    "opt": [
+      "Suka tantangannya",
+      "Lebih suka menghindari"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Selera humor bagi Anda:",
+    "opt": [
+      "Penting dalam hidup",
+      "Lebih nyaman serius"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Jika disindir orang lain:",
+    "opt": [
+      "Balas dengan cerdas",
+      "Pilih diam tidak menggubris"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Voice note di chat:",
+    "opt": [
+      "Suka, lebih personal",
+      "Benci, lebih suka teks"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Me-time bagi Anda adalah:",
+    "opt": [
+      "Waktu wajib pribadi",
+      "Bonus jika ada waktu"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Privasi isi HP Anda:",
+    "opt": [
+      "Harus dikunci rapat",
+      "Terbuka bagi pasangan"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Saat mengambil keputusan:",
+    "opt": [
+      "Mandiri tanpa intervensi",
+      "Diskusi dan minta saran"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Jika merasa terlalu diatur:",
+    "opt": [
+      "Benci dan memberontak",
+      "Terima asal masuk akal"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Ruang pribadi (personal space):",
+    "opt": [
+      "Penting dijaga",
+      "Biasa saja tidak masalah"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Keinginan untuk kebebasan:",
+    "opt": [
+      "Sangat besar",
+      "Cukup secukupnya"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Jika diberi tugas atau pekerjaan:",
+    "opt": [
+      "Lebih suka kerjakan sendiri",
+      "Lebih baik bekerja tim"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Tinggal sendiri bagi Anda:",
+    "opt": [
+      "Berani dan mandiri",
+      "Takut dan kesepian"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Waktu santai paling nikmat jika:",
+    "opt": [
+      "Menikmati waktu sendiri",
+      "Berkumpul bersama teman"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Kehidupan Anda saat ini:",
+    "opt": [
+      "Ingin kendali penuh",
+      "Ikut arus saja"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Kehidupan pribadi bagi Anda:",
+    "opt": [
+      "Eksklusif (privat)",
+      "Terbuka (publik)"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Suasana rumah yang ideal:",
+    "opt": [
+      "Tenang dan sunyi",
+      "Ramai dan penuh tawa"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Kebebasan bagi Anda:",
+    "opt": [
+      "Segalanya dalam hidup",
+      "Tetap ada batasnya"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Jika merasa bosan pada rutinitas:",
+    "opt": [
+      "Cari tantangan/hobi baru",
+      "Tekuni yang ada sampai ahli"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Kepemilikan barang bagi Anda:",
+    "opt": [
+      "Lebih suka milik pribadi",
+      "Nyaman berbagi bersama"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Ruang kerja ideal:",
+    "opt": [
+      "Rapi dan tertata",
+      "Berantakan kreatif"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Saat masa lalu pasangan diungkit, Anda:",
+    "opt": [
+      "Abaikan, itu sudah berlalu",
+      "Bahas detail agar tuntas"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Jika pasangan cemburu buta, reaksi Anda:",
+    "opt": [
+      "Menjelaskan dengan sabar",
+      "Merasa risih dan ikut marah"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Menghadapi pasangan yang sedang bad mood parah:",
+    "opt": [
+      "Beri dia ruang dan waktu sendiri",
+      "Terus dampingi dan hibur"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Ketika janji penting dibatalkan sepihak karena alasan mendadak:",
+    "opt": [
+      "Sangat marah dan kecewa",
+      "Memaklumi jika alasannya logis"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Saat bertengkar di tempat umum, Anda akan:",
+    "opt": [
+      "Menahan diri sampai pulang",
+      "Langsung berdebat di tempat"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Jika merasa dikhianati, apakah ada kesempatan kedua?",
+    "opt": [
+      "Tidak ada kompromi",
+      "Tergantung seberapa fatal"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Ketika pasangan menyembunyikan sesuatu demi kebaikan:",
+    "opt": [
+      "Tetap marah karena itu bohong",
+      "Menghargai niat baiknya"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Cara Anda menghadapi watak keras pasangan:",
+    "opt": [
+      "Mengalah dan mengikuti alurnya",
+      "Bersikap sama tegas dan kerasnya"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Saat ada pihak ketiga (teman/keluarga) ikut campur hubungan:",
+    "opt": [
+      "Tegas membatasi mereka",
+      "Membiarkan karena menghargai"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Jika tidak sengaja menyakiti perasaan pasangan:",
+    "opt": [
+      "Langsung minta maaf saat itu juga",
+      "Menunggu situasi agak mereda"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Menghadapi perbedaan prinsip yang sangat tajam:",
+    "opt": [
+      "Berusaha keras mencari jalan tengah",
+      "Merasa sulit untuk dilanjutkan"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Saat pasangan terus mengulangi kesalahan sepele yang sama:",
+    "opt": [
+      "Memberi ultimatum tegas",
+      "Pasrah dan memperbanyak sabar"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Jika perdebatan mulai mengarah ke nada tinggi:",
+    "opt": [
+      "Langsung pergi meninggalkan ruangan",
+      "Terbawa emosi dan membalas"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Ketika Anda sadar Anda salah tapi gengsi:",
+    "opt": [
+      "Minta maaf diam-diam lewat sikap",
+      "Tetap keras kepala menolak salah"
+    ]
+  },
+  {
+    "cat": "Konflik",
+    "text": "Melihat orang lain menangis saat bertengkar dengan Anda:",
+    "opt": [
+      "Luluh dan merasa bersalah",
+      "Menganggap itu senjata manipulasi"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Mengunggah kemesraan di media sosial:",
+    "opt": [
+      "Penting untuk kenang-kenangan",
+      "Norak dan sangat privat"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Jika pasangan ingin ikut nongkrong dengan teman-teman Anda:",
+    "opt": [
+      "Senang dan mengajaknya berbaur",
+      "Lebih suka punya waktu terpisah"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Sikap Anda terhadap mantan dari pasangan:",
+    "opt": [
+      "Bisa jadi teman biasa",
+      "Harus putus kontak sepenuhnya"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Menghadapi teman sahabat pasangan yang berlawanan jenis:",
+    "opt": [
+      "Percaya sepenuhnya",
+      "Tetap waspada dan sedikit cemburu"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Bergaul dengan tetangga di lingkungan tempat tinggal:",
+    "opt": [
+      "Berusaha akrab dan ramah",
+      "Cukup sapa seperlunya saja"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Ketika diajak ke acara keluarga besar pasangan untuk pertama kali:",
+    "opt": [
+      "Antusias dan bersiap diri",
+      "Merasa sangat canggung dan malas"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Saat pasangan terlalu sibuk dengan hobi dan sirkelnya:",
+    "opt": [
+      "Protes meminta waktu lebih",
+      "Mencari kesibukan dan teman sendiri"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Pendapat orang lain tentang hubungan asmara Anda:",
+    "opt": [
+      "Penting sebagai bahan evaluasi",
+      "Sama sekali tidak peduli"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Jika ada teman jauh yang tiba-tiba meminjam uang:",
+    "opt": [
+      "Bantu sesuai kemampuan",
+      "Tolak dengan alasan halus"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Membantu orang tidak dikenal yang kesulitan di jalan:",
+    "opt": [
+      "Langsung turun tangan menolong",
+      "Ragu, takut itu modus penipuan"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Sikap di dunia maya (Medsos) secara umum:",
+    "opt": [
+      "Aktif berkomentar dan posting",
+      "Hanya scroll sebagai pengamat"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Menghadapi komentar negatif di media sosial:",
+    "opt": [
+      "Balas dengan argumen tegas",
+      "Abaikan, hapus, atau blokir"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Di sebuah acara umum, Anda lebih nyaman dikenal sebagai:",
+    "opt": [
+      "Pasangan dari seseorang",
+      "Diri Anda sendiri dengan karya"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Jika sahabat curhat masalah hubungannya yang toxic:",
+    "opt": [
+      "Beri saran objektif walau pahit",
+      "Hanya mendengarkan tanpa menghakimi"
+    ]
+  },
+  {
+    "cat": "Sosial",
+    "text": "Membawa teman menginap di rumah Anda:",
+    "opt": [
+      "Boleh saja, seru dan ramai",
+      "Mengganggu privasi kenyamanan"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Memilih antara karir yang bersinar atau cinta yang damai:",
+    "opt": [
+      "Karir dan kemapanan nomor satu",
+      "Cinta dan keharmonisan lebih utama"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Rencana menikah bagi Anda secara pribadi:",
+    "opt": [
+      "Punya target usia atau capaian tertentu",
+      "Mengalir saja menunggu siap batin"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Membagi penghasilan dengan pasangan di masa depan:",
+    "opt": [
+      "Transparan sepenuhnya dalam satu pintu",
+      "Tetap ada dana privasi masing-masing"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Tabungan pendidikan anak atau liburan keluarga yang rutin?:",
+    "opt": [
+      "Pendidikan adalah hal yang utama",
+      "Liburan penting untuk kewarasan bersama"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Tinggal bersama orang tua/mertua setelah menikah:",
+    "opt": [
+      "Bersedia jika memang keadaan memaksa",
+      "Mutlak menolak, harus mandiri"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Membeli rumah sederhana atau kendaraan mewah terlebih dahulu?",
+    "opt": [
+      "Rumah sederhana untuk investasi aman",
+      "Kendaraan bagus untuk mobilitas/gengsi"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Saat hari gajian tiba, hal pertama yang Anda lakukan:",
+    "opt": [
+      "Bayar tagihan dan tabung utuh",
+      "Self-reward, makan enak atau belanja"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Memilih tempat makan saat kencan akhir pekan:",
+    "opt": [
+      "Restoran mahal dengan estetik bagus",
+      "Warung kaki lima yang makanannya lezat"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Membawa hewan peliharaan (kucing/anjing) di dalam rumah:",
+    "opt": [
+      "Sangat suka dan menyenangkan",
+      "Tidak suka, kotor dan repot"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Pentingnya penampilan fisik pasangan bagi Anda:",
+    "opt": [
+      "Sangat penting untuk daya tarik",
+      "Inner beauty dan karakter lebih utama"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Tanggung jawab pekerjaan rumah tangga (menyapu/mencuci):",
+    "opt": [
+      "Harus dibagi rata tanpa pandang gender",
+      "Adalah tugas utama salah satu pihak"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Menyikapi hutang atau cicilan pinjaman online:",
+    "opt": [
+      "Hindari sebisa mungkin walau sulit",
+      "Wajar dipakai untuk penuhi gaya hidup"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Menghadapi masa krisis finansial hebat bersama pasangan:",
+    "opt": [
+      "Tetap setia berjuang dari nol bersama",
+      "Realistis mencari jalan keluar masing-masing"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Mengejar pendidikan akademis setinggi-tingginya:",
+    "opt": [
+      "Sangat penting untuk status dan ilmu",
+      "Pengalaman lapangan jauh lebih penting"
+    ]
+  },
+  {
+    "cat": "Prioritas",
+    "text": "Saat harus memilih: Hadiah mahal tapi tak berguna, atau murah tapi fungsional?",
+    "opt": [
+      "Mahal karena nilai prestisenya",
+      "Murah yang penting sangat bermanfaat"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Saat LDR (Long Distance Relationship), intensitas komunikasi:",
+    "opt": [
+      "Harus saling update setiap jam",
+      "Secukupnya saja saat ada waktu luang"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Rutinitas mengucapkan kalimat 'Aku sayang kamu':",
+    "opt": [
+      "Sering diucapkan agar ia selalu tahu",
+      "Jarang diucapkan agar terasa sangat spesial"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Jika pasangan memberi kode atau isyarat terselubung:",
+    "opt": [
+      "Mudah peka dan langsung mengerti",
+      "Tidak paham, lebih suka bicara langsung"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Membahas topik serius tentang masa depan secara tiba-tiba:",
+    "opt": [
+      "Santai, seru untuk dibicarakan",
+      "Terasa berat dan bikin overthinking"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Saat pasangan curhat panjang lebar tentang masalahnya:",
+    "opt": [
+      "Fokus mencari dan memberi solusi",
+      "Fokus memberi empati dan pelukan"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Jika ada hal kecil yang mengganjal di hati Anda:",
+    "opt": [
+      "Langsung utarakan detik itu juga",
+      "Tunggu waktu dan mood yang pas"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Gaya bercanda harian dengan pasangan:",
+    "opt": [
+      "Suka saling meledek atau roasting",
+      "Lebih banyak panggilan sayang yang lembut"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Membagikan kata sandi (password) HP dan Medsos:",
+    "opt": [
+      "Saling tahu sebagai bentuk kejujuran",
+      "Itu privasi, tidak boleh saling tahu"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Memberi kabar saat sedang bepergian bersama teman:",
+    "opt": [
+      "Wajib, inisiatif sendiri tanpa disuruh",
+      "Kalau ingat atau kalau sempat saja"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Menanggapi pujian fisik dari pasangan:",
+    "opt": [
+      "Senang dan percaya diri",
+      "Salah tingkah, malu, dan merasa canggung"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Membicarakan hal tabu atau fantasi terdalam:",
+    "opt": [
+      "Sangat terbuka tanpa rasa canggung",
+      "Merasa tidak nyaman dan menghindar"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Jika chat hanya di-read tapi tidak dibalas lama:",
+    "opt": [
+      "Biasa saja, mungkin dia sedang repot",
+      "Overthinking dan berujung marah"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Menulis surat cinta atau pesan teks yang sangat panjang:",
+    "opt": [
+      "Sangat romantis dan menyentuh",
+      "Terlalu kuno dan berlebihan (cringe)"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Membahas masa lalu atau mantan pacar dengan pasangan saat ini:",
+    "opt": [
+      "Santai sebagai bahan cerita/evaluasi",
+      "Topik terlarang yang memancing keributan"
+    ]
+  },
+  {
+    "cat": "Komunikasi",
+    "text": "Bahasa cinta (Love Language) paling dominan bagi Anda:",
+    "opt": [
+      "Kata-kata pujian (Words of Affirmation)",
+      "Waktu bersama (Quality Time)"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Pergi berlibur sendirian (Solo traveling) ke kota asing:",
+    "opt": [
+      "Sangat menantang dan membebaskan",
+      "Kesepian, lebih suka ada teman"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Jika pasangan sering mengatur gaya berpakaian Anda:",
+    "opt": [
+      "Senang karena merasa diperhatikan",
+      "Merasa dikekang dan risih"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Mengelola hobi masing-masing di luar hubungan:",
+    "opt": [
+      "Penting punya hobi dan dunia sendiri",
+      "Lebih baik menemukan hobi bersama"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Keputusan untuk resign dari pekerjaan utama:",
+    "opt": [
+      "Putuskan sendiri secara mandiri",
+      "Wajib meminta persetujuan pasangan"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Jika dilarang berteman dengan orang tertentu yang tidak disukai pasangan:",
+    "opt": [
+      "Turuti demi menjaga perasaan",
+      "Menolak keras karena itu hak pribadi"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Mengatur jadwal harian secara umum:",
+    "opt": [
+      "Terstruktur, disiplin, dan kaku",
+      "Sangat fleksibel, spontan, dan bebas"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Saat sedang sangat fokus mengerjakan tugas/coding:",
+    "opt": [
+      "Jangan diganggu sama sekali",
+      "Masih boleh disela sesekali"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Prinsip utama Anda dalam menjalani aturan:",
+    "opt": [
+      "Aturan dibuat untuk ditaati sepenuhnya",
+      "Aturan bisa diakali jika situasinya mendesak"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Menentukan menu makan saat keluar berdua:",
+    "opt": [
+      "Saya yang inisiatif memilihkan tempat",
+      "Sering menjawab 'terserah' pada pasangan"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Ikut campur menyelesaikan urusan internal keluarga pasangan:",
+    "opt": [
+      "Hanya memberi saran jika diminta",
+      "Merasa berhak ikut serta turun tangan"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Bergantung pada bantuan orang lain dalam hal remeh:",
+    "opt": [
+      "Sangat menghindari, ingin mandiri terus",
+      "Tidak masalah jika hubungannya dekat"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Mencoba hal baru yang sedikit ekstrem (misal: olahraga pemicu adrenalin):",
+    "opt": [
+      "Berani mencoba tanpa ragu",
+      "Menolak tegas, lebih suka cari aman"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Ketika disuruh berubah karakter demi mempertahankan pasangan:",
+    "opt": [
+      "Menolak, 'inilah diriku apa adanya'",
+      "Bersaisa kompromi asal ke arah positif"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Memiliki pandangan politik atau prinsip fundamental yang berseberangan:",
+    "opt": [
+      "Tidak masalah, perbedaan itu wajar",
+      "Bisa jadi sumber konflik besar yang fatal"
+    ]
+  },
+  {
+    "cat": "Otonomi",
+    "text": "Jika pasangan tiba-tiba mengecek mutasi rekening atau isi dompet Anda:",
+    "opt": [
+      "Marah besar karena melanggar privasi",
+      "Santai saja, tidak ada yang disembunyikan"
+    ]
+  }
+]
